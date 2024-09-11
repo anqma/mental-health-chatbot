@@ -108,7 +108,7 @@ Streamlit will provide a URL in the terminal. Open this URL in your web browser 
 ## Code
 
 The code for the application is in the 
-[`fitness_assistant`](mental_health_assistant/) folder:
+[`mental_health_assistant`](mental_health_assistant/) folder:
 
 - [`app.py`](mental_health_assistant/app.py) - the Streamlit application
 - [`ingest.py`](mental_health_assistant/ingest.py) - loading the data into the knowledge base
